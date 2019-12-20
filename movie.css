@@ -1,0 +1,8 @@
+.movie{
+    cursor:pointer;
+}
+
+.movie:hover{
+    color:palevioletred;
+    text-decoration: underline;
+}
